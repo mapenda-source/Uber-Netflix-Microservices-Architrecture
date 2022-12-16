@@ -21,6 +21,3 @@ La programmation réactive est un paradigme de programmation asynchrone concern�
 # Spring WebFlux
 
 Spring WebFlux est une version parallèle de Spring MVC et prend en charge les flux réactifs entièrement non bloquants. Il prend en charge le concept de contre-pression et utilise Netty comme serveur intégré pour exécuter des applications réactives. Si vous connaissez le style de programmation Spring MVC, vous pouvez également travailler facilement sur Webflux.
-
-# Kafka Producteur & Consommateur
-https://github.com/soumyadip007/Kafka-Producer-using-Spring-Boot-Rest-and-Microservices
